@@ -1,0 +1,95 @@
+{
+    u 'hits': {
+        u 'hits': [{
+            u 'sort': [1476541981000],
+            u '_type': u 'feed',
+            u '_source': {
+                u 'data': {
+                    u 'FeedURL': u '',
+                    u 'PublicationId': 0,
+                    u 'Title': u '',
+                    u 'Url': u '',
+                    u 'Text': u 'Exclusive @TheOfficialSBI Chief \nhope to see 11% credit growth this yr;\nlower rates too will alleviate stress @CNBCTV18Live #BRICS2016',
+                    u 'TweetIdStr': u '787300248716574721',
+                    u 'Summary': u '',
+                    u 'Username': u 'ShereenBhan',
+                    u 'TweetId': 787300248716574700,
+                    u 'Type': u 'Tweet',
+                    u 'CreatedAt': u '2016-10-15T14:33:01'
+                }
+            },
+            u '_score': None,
+            u '_index': u 'feeds',
+            u '_id': u '787300248716574700'
+        }, {
+            u 'sort': [1476541809000],
+            u '_type': u 'feed',
+            u '_source': {
+                u 'data': {
+                    u 'FeedURL': u '',
+                    u 'PublicationId': 0,
+                    u 'Title': u '',
+                    u 'Url': u '',
+                    u 'Text': u 'Exclusive @IDBI_Bank chairman #Essar promoters yet to tell us how the debt will be treated. Will \nReturn to double digit loan growth this yr',
+                    u 'TweetIdStr': u '787299529011769345',
+                    u 'Summary': u '',
+                    u 'Username': u 'ShereenBhan',
+                    u 'TweetId': 787299529011769300,
+                    u 'Type': u 'Tweet',
+                    u 'CreatedAt': u '2016-10-15T14:30:09'
+                }
+            },
+            u '_score': None,
+            u '_index': u 'feeds',
+            u '_id': u '787299529011769300'
+        }, {
+            u 'sort': [1476541658000],
+            u '_type': u 'feed',
+            u '_source': {
+                u 'data': {
+                    u 'FeedURL': u '',
+                    u 'PublicationId': 0,
+                    u 'Title': u '',
+                    u 'Url': u '',
+                    u 'Text': u 'Exclusive @TheOfficialSBI we hope to resolve #Essar steel issue this fiscal. Many NPA issues will be resolved this year @CNBCTV18Live',
+                    u 'TweetIdStr': u '787298894258409472',
+                    u 'Summary': u '',
+                    u 'Username': u 'ShereenBhan',
+                    u 'TweetId': 787298894258409500,
+                    u 'Type': u 'Tweet',
+                    u 'CreatedAt': u '2016-10-15T14:27:38'
+                }
+            },
+            u '_score': None,
+            u '_index': u 'feeds',
+            u '_id': u '787298894258409500'
+        }, {
+            u 'sort': [1476541376000],
+            u '_type': u 'feed',
+            u '_source': {
+                u 'data': {
+                    u 'FeedURL': u '',
+                    u 'PublicationId': 0,
+                    u 'Title': u '',
+                    u 'Url': u '',
+                    u 'Text': u "CNBCTV18 exclusive @TheOfficialSBI Chief 'we benefit from #EssarOilDeal but need to understand by how much @CNBCTV18Live #BRICS2016",
+                    u 'TweetIdStr': u '787297710319644672',
+                    u 'Summary': u '',
+                    u 'Username': u 'ShereenBhan',
+                    u 'TweetId': 787297710319644700,
+                    u 'Type': u 'Tweet',
+                    u 'CreatedAt': u '2016-10-15T14:22:56'
+                }
+            },
+            u '_score': None,
+            u '_index': u 'feeds',
+            u '_id': u '787297710319644700'
+        }],
+        u 'total': 4,
+        u 'max_score': None
+    }, u '_shards': {
+        u 'successful': 8,
+        u 'failed': 0,
+        u 'total': 8
+    }, u 'took': 3, u 'timed_out': False
+}

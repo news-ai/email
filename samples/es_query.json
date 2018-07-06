@@ -1,0 +1,27 @@
+{
+    'sort': [{
+        'data.CreatedAt': {
+            'order': 'desc',
+            'mode': 'avg'
+        }
+    }],
+    'query': {
+        'bool': {
+            'must': [{
+                'range': {
+                    'data.CreatedAt': {
+                        'to': '2016-10-16T22:50:18',
+                        'from': '2016-10-15T06:00:00'
+                    }
+                }
+            }, {
+                'term': {
+                    'data.Username': u 'shereenbhan'
+                }
+            }]
+        }
+    },
+    'min_score': 0,
+    'from': 0,
+    'size': 500
+}
